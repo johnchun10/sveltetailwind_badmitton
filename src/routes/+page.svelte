@@ -24,7 +24,7 @@
             <ul class="menu menu-lg menu-vertical lg:menu-horizontal bg-base-200 rounded-box">
                 <li><a>About Us</a></li>
                 <li><a>Bracket</a></li>
-                <li><a>Events</a></li>
+                <li><a>Updated</a></li>
             </ul>
         </div>
         <div class="navbar-end">
