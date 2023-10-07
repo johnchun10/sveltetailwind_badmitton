@@ -30,6 +30,11 @@
         <div class="navbar-end">
         </div>
     </div>
+    <!-- Example Image -->
+    <div class = "rounded-full">
+      <img src = "../sky.jpg" alt="luke"/>
+    </div>
+    
 </body>
 <script>
 	import Hero from '../components/Hero.svelte';
