@@ -7,6 +7,28 @@ export default {
   plugins: [require('@tailwindcss/typography'), require('daisyui')],
   daisyui: {
     themes: [
+      {
+        mytheme: {
+        
+        "primary": "#00ff9f",
+                
+        "secondary": "#FBC6E3",
+                
+        "accent": "#11E470",
+                
+        "neutral": "#141a1f",
+                
+        "base-100": "#f9f5a3",
+                
+        "info": "#4399df",
+                
+        "success": "#58dfae",
+                
+        "warning": "#fba004",
+                
+        "error": "#f63c52",
+        },
+      },
       "light",
       "dark",
       "cupcake",
